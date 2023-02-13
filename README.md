@@ -18,8 +18,6 @@ I'm a tech enthusiast who enjoys learning about new technologies and is always c
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=PathumWijesekara&icon=5&color=6)](https://visitcount.itsvg.in)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
